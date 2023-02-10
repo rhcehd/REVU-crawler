@@ -1,0 +1,6 @@
+포스팅 이력
+블로그 카테고리/이웃수/ 투데이/좋아요댓글
+*WHEREISPOST 검색순위
+
+# user_id = 'jamjam@itssnail.com'
+# user_pw = 'cofla2601!'
